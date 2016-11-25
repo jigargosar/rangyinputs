@@ -14,8 +14,8 @@
  * Version: 1.2.0
  * Build date: 30 November 2014
  */
-// Uses CommonJS, AMD or browser globals to create a jQuery plugin.
 
+// Uses CommonJS, AMD or browser globals to create a jQuery plugin.
 (function (factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD. Register as an anonymous module.
